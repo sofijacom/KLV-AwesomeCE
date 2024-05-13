@@ -4,7 +4,7 @@
 #
 ![Screenshot](https://github.com/sofijacom/KLV-AwesomeCE/assets/107557749/bd707fe1-c0bf-4fa1-b6bc-cd53b4bbf5e7)
 
-# Assembly of KLV-AwesomeCE
+# 💥 Assembly of KLV-AwesomeCE 💥
 
 1) Create a folder `KLV-AwesomeCE` typing in the terminal `mkdir -p KLV-AwesomeCE`
 
