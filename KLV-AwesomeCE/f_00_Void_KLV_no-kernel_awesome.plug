@@ -365,7 +365,7 @@ wget ‐c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLV-Awesome-CE/dcon
 wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/xbps-programs/save2flash-1.9_0.noarch.xbps
 wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLV-Awesome-CE/keyboard-layout-0.7.6_1.noarch.xbps
 wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLV-Awesome-CE/pup-volume-monitor-1.15_0.x86_64.xbps
-#wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLV-Awesome-CE/Boot_Grub2/grub2config-2.0.1_1.x86_64.xbps
+#wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLV-Awesome-CE/Boot_Grub2/grub2config-2.0.2_1.x86_64.xbps
 #wget -c https://gitlab.com/sofija.p2018/kla-ot2/-/raw/main/KLV-Awesome-CE/Boot_Grub2/grub4dos-1.9.1_1.x86_64.xbps
 
 #### Install KLV custom packages ####
@@ -441,7 +441,7 @@ xbps-install -y --repository=Build/ keyboard-layout-0.7.6_1
 xbps-install -y --repository=Build/ pup-volume-monitor-1.15_0
 
 # grub2config
-#xbps-install -y --repository=Build/ grub2config-2.0.1_1
+#xbps-install -y --repository=Build/ grub2config-2.0.2_1
 
 # grub4dos
 #xbps-install -y --repository=Build/ grub4dos-1.9.1_1
